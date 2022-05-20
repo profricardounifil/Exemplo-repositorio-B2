@@ -1,3 +1,3 @@
 # Exemplo-repositorio-B2
-Alterei o conteúdo1
+Alterei o conteúdo
 
